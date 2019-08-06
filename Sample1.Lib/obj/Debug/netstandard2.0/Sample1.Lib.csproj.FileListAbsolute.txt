@@ -1,0 +1,9 @@
+c:\Users\gmeneses\Documents\1_TDD\sample1\Sample1.Lib\bin\Debug\netstandard2.0\Sample1.Lib.deps.json
+c:\Users\gmeneses\Documents\1_TDD\sample1\Sample1.Lib\bin\Debug\netstandard2.0\Sample1.Lib.dll
+c:\Users\gmeneses\Documents\1_TDD\sample1\Sample1.Lib\bin\Debug\netstandard2.0\Sample1.Lib.pdb
+c:\Users\gmeneses\Documents\1_TDD\sample1\Sample1.Lib\obj\Debug\netstandard2.0\Sample1.Lib.csprojAssemblyReference.cache
+c:\Users\gmeneses\Documents\1_TDD\sample1\Sample1.Lib\obj\Debug\netstandard2.0\Sample1.Lib.csproj.CoreCompileInputs.cache
+c:\Users\gmeneses\Documents\1_TDD\sample1\Sample1.Lib\obj\Debug\netstandard2.0\Sample1.Lib.AssemblyInfoInputs.cache
+c:\Users\gmeneses\Documents\1_TDD\sample1\Sample1.Lib\obj\Debug\netstandard2.0\Sample1.Lib.AssemblyInfo.cs
+c:\Users\gmeneses\Documents\1_TDD\sample1\Sample1.Lib\obj\Debug\netstandard2.0\Sample1.Lib.dll
+c:\Users\gmeneses\Documents\1_TDD\sample1\Sample1.Lib\obj\Debug\netstandard2.0\Sample1.Lib.pdb

@@ -1,0 +1,11 @@
+C:\Users\gmeneses\Documents\1_TDD\sample1\Sample1.App\bin\Debug\netcoreapp2.2\Sample1.App.deps.json
+C:\Users\gmeneses\Documents\1_TDD\sample1\Sample1.App\bin\Debug\netcoreapp2.2\Sample1.App.runtimeconfig.json
+C:\Users\gmeneses\Documents\1_TDD\sample1\Sample1.App\bin\Debug\netcoreapp2.2\Sample1.App.runtimeconfig.dev.json
+C:\Users\gmeneses\Documents\1_TDD\sample1\Sample1.App\bin\Debug\netcoreapp2.2\Sample1.App.dll
+C:\Users\gmeneses\Documents\1_TDD\sample1\Sample1.App\bin\Debug\netcoreapp2.2\Sample1.App.pdb
+C:\Users\gmeneses\Documents\1_TDD\sample1\Sample1.App\obj\Debug\netcoreapp2.2\Sample1.App.csprojAssemblyReference.cache
+C:\Users\gmeneses\Documents\1_TDD\sample1\Sample1.App\obj\Debug\netcoreapp2.2\Sample1.App.csproj.CoreCompileInputs.cache
+C:\Users\gmeneses\Documents\1_TDD\sample1\Sample1.App\obj\Debug\netcoreapp2.2\Sample1.App.AssemblyInfoInputs.cache
+C:\Users\gmeneses\Documents\1_TDD\sample1\Sample1.App\obj\Debug\netcoreapp2.2\Sample1.App.AssemblyInfo.cs
+C:\Users\gmeneses\Documents\1_TDD\sample1\Sample1.App\obj\Debug\netcoreapp2.2\Sample1.App.dll
+C:\Users\gmeneses\Documents\1_TDD\sample1\Sample1.App\obj\Debug\netcoreapp2.2\Sample1.App.pdb
