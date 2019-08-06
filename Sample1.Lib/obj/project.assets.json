@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gmeneses\\Documents\\1_TDD\\sample1\\Sample1.Lib\\Sample1.Lib.csproj",
+      "projectUniqueName": "c:\\Users\\gmeneses\\Documents\\hands_on_tdd_everis\\Sample1.Lib\\Sample1.Lib.csproj",
       "projectName": "Sample1.Lib",
-      "projectPath": "C:\\Users\\gmeneses\\Documents\\1_TDD\\sample1\\Sample1.Lib\\Sample1.Lib.csproj",
+      "projectPath": "c:\\Users\\gmeneses\\Documents\\hands_on_tdd_everis\\Sample1.Lib\\Sample1.Lib.csproj",
       "packagesPath": "C:\\Users\\gmeneses\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gmeneses\\Documents\\1_TDD\\sample1\\Sample1.Lib\\obj\\",
+      "outputPath": "c:\\Users\\gmeneses\\Documents\\hands_on_tdd_everis\\Sample1.Lib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

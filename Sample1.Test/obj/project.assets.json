@@ -5872,11 +5872,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gmeneses\\Documents\\1_TDD\\sample1\\Sample1.Test\\Sample1.Test.csproj",
+      "projectUniqueName": "C:\\Users\\gmeneses\\Documents\\hands_on_tdd_everis\\Sample1.Test\\Sample1.Test.csproj",
       "projectName": "Sample1.Test",
-      "projectPath": "C:\\Users\\gmeneses\\Documents\\1_TDD\\sample1\\Sample1.Test\\Sample1.Test.csproj",
+      "projectPath": "C:\\Users\\gmeneses\\Documents\\hands_on_tdd_everis\\Sample1.Test\\Sample1.Test.csproj",
       "packagesPath": "C:\\Users\\gmeneses\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gmeneses\\Documents\\1_TDD\\sample1\\Sample1.Test\\obj\\",
+      "outputPath": "C:\\Users\\gmeneses\\Documents\\hands_on_tdd_everis\\Sample1.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5895,8 +5895,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\gmeneses\\Documents\\1_TDD\\sample1\\Sample1.Lib\\Sample1.Lib.csproj": {
-              "projectPath": "C:\\Users\\gmeneses\\Documents\\1_TDD\\sample1\\Sample1.Lib\\Sample1.Lib.csproj"
+            "C:\\Users\\gmeneses\\Documents\\hands_on_tdd_everis\\Sample1.Lib\\Sample1.Lib.csproj": {
+              "projectPath": "C:\\Users\\gmeneses\\Documents\\hands_on_tdd_everis\\Sample1.Lib\\Sample1.Lib.csproj"
             }
           }
         }

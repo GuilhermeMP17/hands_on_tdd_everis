@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gmeneses\\Documents\\1_TDD\\sample1\\Sample1.App\\Sample1.App.csproj",
+      "projectUniqueName": "c:\\Users\\gmeneses\\Documents\\hands_on_tdd_everis\\Sample1.App\\Sample1.App.csproj",
       "projectName": "Sample1.App",
-      "projectPath": "C:\\Users\\gmeneses\\Documents\\1_TDD\\sample1\\Sample1.App\\Sample1.App.csproj",
+      "projectPath": "c:\\Users\\gmeneses\\Documents\\hands_on_tdd_everis\\Sample1.App\\Sample1.App.csproj",
       "packagesPath": "C:\\Users\\gmeneses\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gmeneses\\Documents\\1_TDD\\sample1\\Sample1.App\\obj\\",
+      "outputPath": "c:\\Users\\gmeneses\\Documents\\hands_on_tdd_everis\\Sample1.App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
